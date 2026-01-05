@@ -11,7 +11,7 @@
 
 ---
 
-  About Me
+  > About Me
 
  🎓 Pre-Final Year B.Tech AI & DS Student at **Kalaignar Karunanidhi Institute of Technology**
  🔭 Interested in **AI, Data Science, Web Development & Automation**
@@ -21,7 +21,7 @@
  ⚡ Fun fact: _I love solving competitive programming problems_ 😎
 
 
-  Education
+  > Education
 
  **B.Tech – Artificial Intelligence & Data Science**  
   KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore  
@@ -30,7 +30,7 @@
 
 
 
-  Experience
+  > Experience
 
 **Internship Trainee – Gateway Software Solutions Pvt. Ltd (Offline)**  
 📍 Coimbatore | **Dec 2024**
@@ -45,7 +45,7 @@
 -> Implemented **unit & integration tests** for reliable datasets
 
 
-  Projects
+  > Projects
 
 **Excel Automation with Python**  
 *Pandas, OpenPyXL, XlsxWriter, Win32com*
@@ -64,7 +64,7 @@
 -> End-to-end full-stack implementation (solo project)
 
 
-  Achievements
+  > Achievements
 
 ->  Participated in **TCS CodeVita – Season 1**
 ->  Earned **Contest Contender Gold Badge** on CodeChef
@@ -73,7 +73,7 @@
 ->  Developed a **Full-Stack Smart Supply Chain Tracker System (Solo)**
 
 
-  Competitive Programming
+  > Competitive Programming
 
 -> **LeetCode**  
   Max Rating: **1410** | Problems Solved: **300+** | Top **83.7%** | Knight Badge  
@@ -85,7 +85,7 @@
   Global Rank: **47681** | Country Rank: **44110**
 
 
-  Certifications
+  > Certifications
 
 -> ☁ **AWS Certified Cloud Practitioner**
 -> 🐍 **Infosys Springboard – Python Programming (Achiever)**
