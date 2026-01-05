@@ -113,13 +113,13 @@
   <a href="https://github.com/SanjaySivakumar2005" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/BalaramanMuthuraj/" target="_blank">
+  <a href="https://leetcode.com/u/Sanjay_5477/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/BalaramanM" target="_blank">
+  <a href="https://codeforces.com/profile/sanjay_siva" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/balaramanm" target="_blank">
+  <a href="https://www.codechef.com/users/sanjay_5477" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-784B25?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
