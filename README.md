@@ -13,12 +13,12 @@
 
   > About Me
 
- 🎓 Pre-Final Year B.Tech AI & DS Student at **Kalaignar Karunanidhi Institute of Technology**
- 🔭 Interested in **AI, Data Science, Web Development & Automation**
- 🌱 Currently learning **Advanced DSA, React & Backend Development**
- 💼 Internship experience in **Python, ML, DL & Data Science**
- 📫 Reach me: **sanjaysiva5209@gmail.com**
- ⚡ Fun fact: _I love solving competitive programming problems_ 😎
+  Pre-Final Year B.Tech AI & DS Student at **Kalaignar Karunanidhi Institute of Technology**
+  Interested in **AI, Data Science, Web Development & Automation**
+  Currently learning **Advanced DSA, React & Backend Development**
+  Internship experience in **Python, ML, DL & Data Science**
+  Reach me: **sanjaysiva5209@gmail.com**
+  Fun fact: _I love solving competitive programming problems_ 
 
 
   > Education
@@ -33,13 +33,13 @@
   > Experience
 
 **Internship Trainee – Gateway Software Solutions Pvt. Ltd (Offline)**  
-📍 Coimbatore | **Dec 2024**
+ Coimbatore | **Dec 2024**
 -> Hands-on training in **Python, Machine Learning & Deep Learning**
 -> Built a **Stock Price Prediction System** using ML algorithms
 -> Gained exposure to **backend web development**
 
 **Internship Trainee – Gateway Software Solutions Pvt. Ltd (Offline)**  
-📍 Coimbatore | **June 2025**
+ Coimbatore | **June 2025**
 -> Trained in **Python with Data Science**
 -> Worked on **data preprocessing, analysis, and API testing**
 -> Implemented **unit & integration tests** for reliable datasets
@@ -88,14 +88,14 @@
   > Certifications
 
 -> ☁ **AWS Certified Cloud Practitioner**
--> 🐍 **Infosys Springboard – Python Programming (Achiever)**
--> 🌐 **Cisco – Networking Essentials & Cybersecurity**
--> ☁ **Juniper – Cloud & Mist AI**
--> 🎓 **NPTEL – Soft Skills**
+->  **Infosys Springboard – Python Programming (Achiever)**
+->  **Cisco – Networking Essentials & Cybersecurity**
+->  **Juniper – Cloud & Mist AI**
+->  **NPTEL – Soft Skills**
 
 
 
- 🤝 Volunteering
+  Volunteering
 
 **Secretary – Photography Club**
 -> Managed events, coordinated teams & streamlined workflows
@@ -104,7 +104,7 @@
 -> Collaborated across teams for documentation & execution
 
 
- 🌐 Connect With Me
+  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-sivakumar-237640291/" target="_blank">
@@ -126,13 +126,13 @@
 
 
 
- 🛠 Languages & Tools
+  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,html,css,js,react,nodejs,mysql,mongodb,git,github&theme=dark" />
 </p>
 
 
- ✨ Quote of the Day
+  Quote of the Day
 
-> _“Consistency beats talent when talent doesn’t practice.”_ 🚀🔥
+> _“Consistency beats talent when talent doesn’t practice.”_ 
