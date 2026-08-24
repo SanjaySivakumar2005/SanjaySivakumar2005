@@ -25,7 +25,7 @@
 
  **B.Tech – Artificial Intelligence & Data Science**  
   KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore  
-  **2023 – 2027 | CGPA: 7.75 / 10**  
+  **2023 – 2027 | CGPA: 8.50 / 10**  
   *Coursework:* Computer Architecture, Computer Networks, AI, Data Science, Deep Learning
 
 
